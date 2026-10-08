@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">Toolbox Lanzador</string>
-    <string name="estado_base">Proyecto base listo</string>
+    <string name="estado_instalado">Minecraft Bedrock detectado</string>
+    <string name="estado_no_instalado">Minecraft Bedrock no está instalado</string>
+    <string name="version_texto">Versión instalada: %1$s</string>
+    <string name="boton_jugar">Abrir Minecraft</string>
+    <string name="no_se_pudo_abrir">No se pudo abrir Minecraft</string>
 </resources>
